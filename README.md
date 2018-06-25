@@ -1,6 +1,6 @@
-# <p align="center" style="color:#cb3349" >📡 سـورس الـزعـيـم 📡
+# <p align="center" style="color:#cb3349" >📡 سـورس مـكـسـيـكـو 📡
 
-# <p align="center" style="color: #14635c;" > TH3BOSS حصريا من قناة  ⭐️
+# <p align="center" style="color: #14635c;" > MEXEC حصريا من قناة  ⭐️
 
 
 
@@ -20,7 +20,7 @@
 
 # <p align="center"> كود تنصيب السورس 🖇
 
-<br>` git clone https://github.com/TH3BS/BOSS.git;cd BOSS;chmod +x ins;./ins `<br>
+<br>` git clone https://github.com/SCOURTEAM/TEAMMEXEC0.git;cd TEAMMEXEC0;chmod +x ins;./ins `<br>
 
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس 🚸
@@ -35,16 +35,16 @@
  <p align="center"> :: كود تشغيل السورس | لتشغيل السورس يدوي 📛
  
 افتح ترمنال جديد ثم تدخل الكود الاتي <br>
- <br>  `./BOSS/run`
+ <br>  `./TEAMMEXEC0/run`
 
 #  💬¦ للمشاكل والاسفسار والاقتراحات :
   
-  [ الـزعـيـم || مٰـحٰـمـٰد هٰـشٰامٰ ³¹³](https://telegram.me/TH3BS) <br>
+  [ ＭＥＸＩＣＯ || ۆيہٰٰٖﹻســكہٰﹻ،ہي ³¹³](https://telegram.me/VI_P2) <br>
   
-  [Mohammed Hisham](https://telegram.me/TH3BOSS) <br>
+  [ＭＥＸＩＣ_ＴＶ](https://telegram.me/MEXIC_TV) <br>
   
   
-  [٠ツعـمـر الـسـراي ٠](https://telegram.me/blcon) <br>
+  [ＭＥＸＥＣＯ](https://telegram.me/MEXEC0) <br>
 
 # <p align="center"> كروب دعم السورس للتكلم حول المشاكل
 
